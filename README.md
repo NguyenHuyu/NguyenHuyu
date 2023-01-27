@@ -1,4 +1,5 @@
 - 👋 Hi, I’m NguyenHuy
 - 👀 ReactJS 
+- 👀 TypeScript
 - 🌱 NodeJs
 - 💞️ Tailwindscss
