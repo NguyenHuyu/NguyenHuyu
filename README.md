@@ -1,5 +1,2 @@
-- 👋 Hi, I’m NguyenHuy
+- 👋 Hi, I’m NguyenHuy. I am a software engineer at SIU AIlab
 - 👀 NextJS 
-- 👀 TypeScript
-- 🌱 NodeJs
-- 💞️ Tailwindscss
